@@ -1,5 +1,5 @@
 subiendo el archivo
-nombre = Eliu
+nombre = Alex
 apellido = Cobas
 saludo = "Hola"+ nombre + " " + apellido + " Como estas? "
 print (saludo)
